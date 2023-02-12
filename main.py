@@ -4,7 +4,7 @@ def welcome():
 welcome()
 
 def click():
-    print("Click")
+    print("Clickaa")
     
 click()
 
